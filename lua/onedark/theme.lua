@@ -336,7 +336,6 @@ function M.setup(config)
 
     -- BufferLine
     BufferLineIndicatorSelected = { fg = c.git.change },
-    BufferLineFill = { bg = c.black },
 
     -- ALE
     ALEWarningSign = { fg = c.yellow },
