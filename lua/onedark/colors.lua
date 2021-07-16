@@ -14,7 +14,7 @@ function M.setup(config)
   colors = {
     none = "NONE",
     bg = "#1e222a",
-    bg2 = '#1e222a',
+    bg2 = '#1b1f27',
     bg_visual = '#393f4a',
     border = '#646e82',
     bg_highlight = "#242b38",
